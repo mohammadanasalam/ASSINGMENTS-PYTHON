@@ -1,0 +1,58 @@
+who developed python programming language?
+answer: Python programming language was developed by Guido van Rossum.
+which type of progamming does python support?
+answer: Object-Oriented Programming (OOP),Functional Programming (FP)
+Is python case sensitive while dealing with identifiers?
+answers: Yes, Python is case sensitive when it comes to dealing with identifiers such as variable names, function names, class names, etc.
+what is the correct extension of python file?
+answer: The correct file extension for a Python source code file is ".py". 
+Is python code compiled or interpreted?
+answer: Python code is interpreted, not compiled.
+Name a few blocks of code used in define in python code?
+answer: In Python, there are several blocks of code used to define different constructs in the language, such as functions, classes, if-else statements, loops, etc.
+Name a character used to give single line comments in python?
+answers: In Python, a single line comment can be added by using the pound symbol (#).
+Mention a function which can help us to find version of python that we are currently working on?
+answers: we can use the sys module in Python to find the version of Python you are currently working with. 
+Python support the creation of anonymous fuction at runtime, using a contruct called_______?
+answers:  "lambda" 
+what does pip stand for python? 
+answer: pip stands for "Pip Installs Packages".
+Mention a few built-in fuction in python?
+answer: Here are a few built-in functions in Python are: print(), len(), str(), int(), float(). 
+What is the maximum possible length of identifiers in python?
+answers:  An identifier can have a maximum length of 79 characters in Python.
+What are the benefits of using python?
+answers: Here are a few benefits of using Python:
+
+1.Easy to Learn and Use: Python has a simple and intuitive syntax, making it easy to learn and use for people with little or no programming experience.
+
+2.Versatile: Python is a general-purpose language that can be used for a wide range of applications, including web development, scientific computing, data analysis, artificial intelligence, and more.
+
+3.Large and Active Community: Python has a large and active community of users and developers, who contribute to the development of the language and its libraries, and provide support to one another.
+
+4.Extensive Standard Library: Python comes with a large standard library that provides a rich set of modules and functions for many common tasks, making it easy to get started with programming in Python.
+
+5.Cross-platform Support: Python is available on many different platforms, including Windows, macOS, Linux, and more, making it easy to run Python scripts on different operating systems.
+How is memory managed in python?
+answers:In Python, memory management is handled automatically by the Python interpreter, which uses a combination of reference counting and garbage collection to manage the memory used by your programs.
+How to install python in windows and set path variable?
+answers: Here are the steps to install Python in Windows and set the Path variable:
+
+Download the latest version of Python from the official Python website (https://www.python.org/downloads/).
+
+Run the Python installer, and follow the prompts to install Python. Make sure to select the option to add Python to your Path during the installation process.
+
+To check if Python is installed correctly and the Path variable is set correctly, open a Command Prompt window and run the following command: python. This should start the Python interpreter.
+
+To set the Path variable, follow these steps:
+
+Open the Start menu, and type Environment Variables in the search box.
+Click on Edit the system environment variables.
+Click on the Environment Variables button.
+Under System Variables, scroll down and find the Path variable, and click on Edit.
+Click on New and add the path to the Python installation, typically C:\PythonXX\, where XX is the version number of Python installed.
+Click OK to save your changes, and close all open windows.
+After completing these steps, you should be able to run Python from any Command Prompt window by typing python.
+Is indentation required in python?
+answers: Yes, indentation is required in Python. Unlike many other programming languages.
